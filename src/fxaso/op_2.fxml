@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #212121;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/10.0.1" fx:controller="fxaso.Op_2Controller">
+   <children>
+      <Label layoutX="242.0" layoutY="143.0" text="MADE BY:" textFill="#ebebeb">
+         <font>
+            <Font name="Consolas" size="26.0" />
+         </font>
+      </Label>
+      <Label layoutX="251.0" layoutY="182.0" text="ALFIAN AZIS" textFill="#949494">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="259.0" layoutY="207.0" text="M IRFAN S" textFill="#949494">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="251.0" layoutY="232.0" text="M ALDIN Y S" textFill="#949494">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
